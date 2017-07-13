@@ -658,3 +658,4 @@ M5 ;turn the laser off
 
 
 G00 X0 Y0 F4000 ; home
+M30;
